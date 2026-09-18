@@ -4,11 +4,6 @@ Use this file as the base content when preparing the PDF report required by VITy
 
 ## 1. Cover Page
 Project Title: Bank Account Management System
-Course: CSE2006 Programming in Java
-Student Name: __________________
-Registration Number: __________________
-Faculty: __________________
-Academic Year: __________________
 
 ## 2. Introduction
 The project is a console-based Java simulation for managing bank accounts and basic banking operations. It applies object-oriented programming and other Java concepts in a real-world-inspired context.
@@ -90,6 +85,5 @@ Possible documented challenges:
 - Automated unit tests
 
 ## 15. References
-- CSE2006 Programming in Java course syllabus
-- VITyarthi Build Your Own Project instructions
+
 - Java Standard Library documentation
