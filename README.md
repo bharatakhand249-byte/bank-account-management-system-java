@@ -1,6 +1,6 @@
 # Bank Account Management System
 
-A console-based Java project developed for the **VITyarthi – Build Your Own Project** requirement and aligned with the CSE2006 Programming in Java syllabus.
+
 
 > **Academic simulation only:** This project is not connected to any real bank and must not be used with real financial or personal information.
 
@@ -37,9 +37,7 @@ The implementation intentionally uses only the **Java Standard Library**. There 
    - Insufficient balance
    - Closed/non-existent accounts
 
-## 3. Java Concepts Demonstrated
-
-The project demonstrates concepts from the CSE2006 syllabus:
+## 3. Java Concepts Demonstrated:
 
 - Variables, data types, operators and flow control
 - Classes and objects
@@ -219,8 +217,8 @@ This allows the project to demonstrate inheritance, abstraction, interfaces and 
 
 ## 14. Academic Alignment
 
-The project is aligned with the CSE2006 Programming in Java topics covering Java fundamentals, OOP, inheritance/polymorphism, exception handling, multithreading, collections, I/O streams and database-related concepts. JDBC/JPA are listed as possible future enhancements rather than runtime dependencies.
+The project is aligned with the Programming in Java topics covering Java fundamentals, OOP, inheritance/polymorphism, exception handling, multithreading, collections, I/O streams and database-related concepts. JDBC/JPA are listed as possible future enhancements rather than runtime dependencies.
 
 ## 15. Author
 
-Student project for VITyarthi – Build Your Own Project.
+
