@@ -1,4 +1,4 @@
-# VITyarthi Project Checklist
+#  Project Checklist
 
 This checklist maps the project to the provided Build Your Own Project instructions.
 
